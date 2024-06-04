@@ -8,10 +8,14 @@ Un osito quiere llegar a su casa. Sin embargo, para lograrlo, necesita matar a l
 Cómo jugar:
 
 Para moverte usa las flechas
+
 para disparar usa space
+
 para cámara lenta usa shift izquierdo
 
+
 Demo: https://www.youtube.com/watch?si=Vp7SJvolEIkOFxSO&v=cXAmFq6T9kQ&feature=youtu.be 
+
 Nota: La primera parte busca demostrar todos los modos de disparo del jefe, mientras que en la segunda parte o intento, ya se gana
 
 
