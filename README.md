@@ -1,7 +1,7 @@
 # Evidencia-Integradora-TC2008b
 
 Gráficas
-Carpeta que contiene todos los archivos utilizados para el videojuego "My little bear game"
+Carpeta "scripts" que contiene todos los archivos utilizados para el videojuego "My little bear game"
 Un osito quiere llegar a su casa. Sin embargo, para lograrlo, necesita matar a los enemigos, los cuáles son máquinas expendedoras que disparan tenedores. Si logras vencerlos, tienes que enfrentarte con el malvado Mellowy, un bombón enojado que lanza balas sin parar. Una vez que logres vencerlo, ganas y podrás ir tranquilamente a tu casa
 
 Demo: https://www.youtube.com/watch?si=Vp7SJvolEIkOFxSO&v=cXAmFq6T9kQ&feature=youtu.be 
